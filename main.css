@@ -1,0 +1,21 @@
+#przyciski{
+    padding: 30px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#wynik{
+    text-align: center;
+    font-size: 300%;
+}
+
+.przy{
+    width: 25vw;
+    height: 10vh;
+}
+
+#powitanie{
+    text-align: center;
+
+    font-size: 400%;
+}
