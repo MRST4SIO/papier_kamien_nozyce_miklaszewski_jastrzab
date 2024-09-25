@@ -63,6 +63,6 @@ function sprawdz() {
     odswież();
 }
 function odswież(){
-var wynik = document.getElementById("wynik").innerHTML = my + ":" + komputer;
+var wynik = document.getElementById("wynik").innerHTML = "TY "+ my + ":" + komputer + " KOMPUTER";
 
 }
